@@ -30,7 +30,7 @@ Our solution leverages a heuristic-based approach combined with robust PDF parsi
 
 ## How to Build and Run Your Solution
 
-This section is for documentation purposes. [cite_start]The evaluation will use the commands specified in the "Expected Execution" section of the challenge document[cite: 61, 62, 63, 64, 65, 66, 67].
+This section is for documentation purposes.The evaluation will use the commands specified in the "Expected Execution" section of the challenge document[cite: 61, 62, 63, 64, 65, 66, 67].
 
 ### Building the Docker Image
 
